@@ -1,5 +1,5 @@
 # WIP Adventure Game by Choruscat
-##Hi! Nice to meet you.
+## Hi! Nice to meet you.
 We're Choruscat, an indie game dev group, and we're creating a text-based adventure game in Python based on games such as the Shin Megami Tensei series and Undertale, with influences from VA-11 Hall-A and Papers, Please.
 We don't know what it's about, and we only barely know how we plan on doing it.
 However, with our determination and limited knowledge of game design, we know that it's going to happen!
